@@ -1,0 +1,8 @@
+body{
+    place-self: center;
+}
+button{
+    padding:5%;
+    margin:2%;
+    font-weight: bold;
+}
